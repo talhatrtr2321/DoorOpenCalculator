@@ -6,3 +6,5 @@ Bu uygulama bir hesap makinesi uygulamasıdır ANCAK sadece toplama yapabiliyor.
 
 Visual Studio,
 .NET
+# ÖNEMLİ NOT!!!!
+MALESEF Kİ SAYILARI GİRİP SONUCU GÖRDÜKTEN SONRA BİŞİLER YAZARSANIZ ÇÖKÜYOR ANCAL TEKRAR AÇARSANIZ DÜZELİYOR.
