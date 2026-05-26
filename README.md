@@ -4,5 +4,5 @@ Bu uygulama bir hesap makinesi uygulamasıdır ANCAK sadece toplama yapabiliyor.
 
 # KULLANDIĞIM ARAÇLAR 
 
-Visual Studio 
+Visual Studio,
 .NET
