@@ -4,8 +4,6 @@
     {
         static void Main()
         {
-            Console.WriteLine("NOT:Bu program düzgün çalışmayabilir!!!");
-
             //1.SAYIYI GİR
             Console.Write("Birinci sayıyı gir:");
             double sayi1 = Convert.ToDouble(Console.ReadLine());
