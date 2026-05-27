@@ -2,7 +2,6 @@
 
 # DOOROPENCALCULATOR
 Bu uygulama bir hesap makinesi uygulamasıdır hem toplama hem de çıkarma işlemleri yapabiliyor,ve bu bi terminal hesap makinesidir ve terminali sevmiyorsanız kullanmamanız çok daha iyi olur , onun dışında çok hatalı bi uygulamadır eğer windows hesap makinesi vb. gibi bişi düşünmeyin.
-#### İNDİRMEK İÇİN RELEASE,İN ALTINDA 1.0V,a tıklayın
 
 # KULLANDIĞIM ARAÇLAR 
 
