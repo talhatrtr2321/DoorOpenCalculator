@@ -14,11 +14,12 @@
 
             //TOPLAMA 
             double sonuc = sayi1 + sayi2;
-             
-
-
+            
             //SONUCU YAZDIR
             Console.WriteLine("Sonuç:" + sonuc);
+
+
+            
 
             Console.Write("Çıkarma");
 
@@ -34,7 +35,7 @@
             double sonuc2 = sayi3 - sayi4;
 
             //SONUCU YAZDIR
-            Console.WriteLine("Sonuç:" + sonuc2);
+            Console.WriteLine("Sonuç:" - sonuc2);
 
 
 
