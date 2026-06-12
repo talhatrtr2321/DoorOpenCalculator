@@ -9,9 +9,4 @@ Bu uygulama bir hesap makinesi uygulamasıdır ANCAK sadece toplama yapabiliyor.
 Visual Studio,
 .NET
 
-İNDİRİP EXEYİ AÇTIĞINIZDA AŞAĞIDAKİ EKRANA GELİCEKSİNİZ:
-
-<img width="1919" height="1031" alt="Screenshot 2026-05-27 122811" src="https://github.com/user-attachments/assets/12a23077-1642-4449-8adb-8ff5e5ff8765" />
-
-
 # PROJEYİ "ŞUANLIK" BIRAKIYOR BULUNMAKTAYIZ VE BU TERMİNAL UYGULAMASINI ÇOK DİKKATLİ KULLANIN RİSKLER OLABİLİR.
